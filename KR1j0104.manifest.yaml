@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR1j0104/v1
 canonical_location: https://kanripo.org/bkk/KR1j0104/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 要用字苑一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR1j0104_001.yaml, hash: 'sha256:df1a1d918221f6c986e989d13388c81f11b251fe679f148e1b65626507394247'}
+  - {seq: 1, filename: KR1j0104_001.yaml, hash: 'sha256:06b83bf8e8b83d0609141fe687dce3900a1ae328694d0e7296a4464557eaa022'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1j0104_001.markers.yaml, hash: 'sha256:8c1ceb9aa48848c4501d21c72c95d4b1091fa3d360a1ce9397e3b3089a1b70a3'}
+  - {seq: 1, role: markers, filename: assets/KR1j0104_001.markers.yaml, hash: 'sha256:c8a7f7fc92d8e3fbc14fbb83de188ff1f1a79a7da60e25373f8de92c432f8875'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 要用字苑
   type: section
   level: 1
-hash: sha256:ca8292f1663ad89914f06f652325ed1e114bbe91ed66663b3c485811b8bdcb15
+hash: sha256:0b82eee514dca7677cf8666f2065b598921819ff18e0a0480f4ced59d8d1aa2f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
